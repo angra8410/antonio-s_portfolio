@@ -11,3 +11,4 @@ Transaction Details: Purchase date, transaction value, product category, and pay
 Shopping Behavior: Frequency of purchases, average spend per transaction, and seasonal trends.
 
 
+![The Latest Customer Trends Analysis!](/images/project1-dashboard-customer-shopping-trends.png "Powerbi Customer Trends Dashboard")
