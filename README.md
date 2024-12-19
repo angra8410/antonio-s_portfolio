@@ -31,4 +31,9 @@ Do any operators struggle with particular types of operator error?
 
 ![Manufactury Downtown Analysis!](/images/starmodel.PNG "Powerbi star model")
 
+Some data enrichment was done in the following table:
+
+![Manufactury Downtown Analysis!](/images/dataenrichment.png "Powerbi star model")
+
+
 
