@@ -25,4 +25,4 @@ Are any operators underperforming?
 What are the leading factors for downtime?
 Do any operators struggle with particular types of operator error?
 
-![Manufactury Downtown Analysis!](/images/project1-dashboard-customer-shopping-trends.png "Powerbi Customer Trends Dashboard")
+![Manufactury Downtown Analysis!](/images/manufacturing.png "Powerbi Manufacturing Downtime")
