@@ -31,3 +31,4 @@ Do any operators struggle with particular types of operator error?
 
 ![Manufactury Downtown Analysis!](/images/starmodel.png "Powerbi star model")
 
+
