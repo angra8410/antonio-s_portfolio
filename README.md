@@ -12,3 +12,17 @@ Shopping Behavior: Frequency of purchases, average spend per transaction, and se
 
 
 ![The Latest Customer Trends Analysis!](/images/project1-dashboard-customer-shopping-trends.png "Powerbi Customer Trends Dashboard")
+
+
+# [Project 2: Manufacturing Downtime]()
+
+This project was developed to do data wrangling (cleansing, validation and enriching) as well as visualization.
+Data was taken from Maven Analytics.
+Productivity and downtime data for a soda bottling production line, including information on the operator, product, start & end times, and dowtime factors for each batch.
+Recommended Analysis
+What's the current line efficiency? (total time / min time)
+Are any operators underperforming?
+What are the leading factors for downtime?
+Do any operators struggle with particular types of operator error?
+
+![Manufactury Downtown Analysis!](/images/project1-dashboard-customer-shopping-trends.png "Powerbi Customer Trends Dashboard")
