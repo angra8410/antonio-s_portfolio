@@ -26,3 +26,8 @@ What are the leading factors for downtime?
 Do any operators struggle with particular types of operator error?
 
 ![Manufactury Downtown Analysis!](/images/manufacturing.png "Powerbi Manufacturing Downtime")
+
+## This was the whole model created from 4 tables, being the "Line Productivity" the fact table, and the other 3, the dimension tables.
+
+![Manufactury Downtown Analysis!](/images/starmodel.png "Powerbi star model")
+
